@@ -16,7 +16,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://mirar83.github.io/movie_app",
+  "homepage": "http://mirar83.github.io/movieApp",
   "eslintConfig": {
     "extends": "react-app"
   },
