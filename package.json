@@ -6,7 +6,8 @@
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.2"
+    "react-lines-ellipsis": "^0.14.0",
+    "react-scripts": "^2.1.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,7 +17,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://mirar83.github.io/movieApp",
+  "homepage": "http://mirar83.github.io/movie_app",
   "eslintConfig": {
     "extends": "react-app"
   },
