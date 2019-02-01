@@ -48,6 +48,7 @@ class App extends Component {
       poster={movie.medium_cover_image} 
       key={movie.id}
       genres={movie.genres}
+      rating={movie.rating/2}
       synopsis={movie.synopsis}
       />
     })
